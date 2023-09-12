@@ -18,7 +18,7 @@
     place-items: center;
 }
 
-.gameInfo{
+.game-info{
     color: white;
     position: absolute;
     top: 3rem;
@@ -79,7 +79,7 @@
     border: rgba(255, 255, 255, 0.25);
     padding: 0.5rem 2rem;
     cursor: pointer;
-    /* display: none; */
+    display: none;
 }
 
 .btn.active{
